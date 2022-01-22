@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+ .plc{
+    background-color:rgb(235, 235, 235);
+     display:block;
+}
+ .nav{
+     width: 100%;
+    background-color: #130D0C;
+    color:#ffffff;
+    padding:64px 32px;
+    font-size:24px;
+}
+.nav .grid-item.logo{
+font-size:24px;
+}
+
+.nav .grid-container {
+    display: grid;
+    grid-template-columns: max-content auto auto auto auto auto;
+}
+.nav .grid-item {
+    background-color:#130D0C;
+    font-size: 16px;
+    text-align: center;
+}
+ .hero{
+    height:900px;
+    background-image: url(../images/team_fortress.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ .other-offers{
+    margin-left:5%;
+     margin-right: 5%;
+}m 
+ h2.other-offers{
+    font-size:30px;
+}
+ .offer-item{
+    height: 420px;
+    float:left;
+}
+ .grid-container {
+     display: grid;
+     grid-template-columns: auto auto auto;
+     grid-column-gap: 24px;
+}
+ .grid-item {
+     background-color: rgba(235, 235, 235);
+     padding: 20px;
+     font-size: 30px;
+     text-align: center;
+}
+/* padding */
+ .padding-xmini-top{
+    height:8px;
+}
+ .padding-mini-top{
+    height:16px;
+}
+ .padding-xsmall-top{
+    height:20px;
+}
+ .padding-small-top{
+    height:24px;
+}
+ .padding-medium-top{
+    height:32px;
+}
+ .padding-large-top{
+    height:40px;
+}
+ .padding-xlarge-top{
+    height:64px;
+}
+ .padding-xxlarge-top{
+    height:80px;
+}
+ .padding-xmini-bottom{
+    height:8px;
+}
+ .padding-mini-bottom{
+    height:16px;
+}
+ .padding-xsmall-bottom{
+    height:20px;
+}
+ .padding-small-bottom{
+    height:24px;
+}
+ .padding-medium-bottom{
+    height:32px;
+}
+ .padding-large-bottom{
+    height:40px;
+}
+ .padding-xlarge-bottom{
+    height:64px;
+}
+ .padding-xxlarge-bottom{
+    height:80px;
+}
+ .padding-xmini-left{
+    width:8px;
+}
+ .padding-mini-left{
+    width:16px;
+}
+ .padding-xsmall-left{
+    width:20px;
+}
+ .padding-small-left{
+    width:24px;
+}
+ .padding-medium-left{
+    width:32px;
+}
+ .padding-large-left{
+    width:40px;
+}
+ .padding-xlarge-left{
+    width:64px;
+}
+ .padding-xxlarge-left{
+    width:80px;
+}
+ .padding-xmini-right{
+    width:8px;
+}
+ .padding-mini-right{
+    width:16px;
+}
+ .padding-xsmall-right{
+    width:20px;
+}
+ .padding-small-right{
+    width:24px;
+}
+ .padding-medium-right{
+    width:32px;
+}
+ .padding-large-right{
+    width:40px;
+}
+ .padding-xlarge-right{
+    width:64px;
+}
+ .padding-xxlarge-right{
+    width:80px;
+}
+ 
